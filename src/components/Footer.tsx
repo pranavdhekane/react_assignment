@@ -6,7 +6,7 @@ export default function Footer() {
                 It was challenging, but I pushed through and built this — feels good to see it complete.
             </span>
             <a
-                href="https://github.com/pranavdhekane"
+                href="https://github.com/pranavdhekane/react_assignment"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline text-blue-400 hover:text-blue-300"
